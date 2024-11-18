@@ -29,7 +29,8 @@ Clone the repository: https://github.com/tanmay2301/React-Info-Site.git
 - **React**: JavaScript library for building user interfaces.
 - **CSS**: For styling the app.
 
-![image](https://github.com/user-attachments/assets/1d62dd8a-b28a-48a7-84a6-e4dafd96e0e9)
+![image](https://github.com/user-attachments/assets/ca16cf46-3f33-4e0f-bdd1-0b68379fa5da)
+
 
 
 
